@@ -1,6 +1,7 @@
-# t2d-islet-integrative
+# T2D-islet-integrative
 
-Cross-platform integrative transcriptomics pipeline for a human **islet-centered type 2 diabetes** manuscript using:
+Cross-platform integrative transcriptomics pipeline for the paper "Transcriptomic Architecture of Type 2 Diabetes in Human Pancreatic Islets:
+An Integrative Meta-Analysis and Machine Learning Framework for Biomarker Discovery" using:
 
 - GSE25724
 - GSE20966
@@ -11,7 +12,7 @@ Cross-platform integrative transcriptomics pipeline for a human **islet-centered
 
 Identify conserved transcriptional programs of human islet dysfunction in T2D, derive interpretable refined modules, and generate manuscript-ready figures.
 
-## What is included in this GitHub-ready bundle
+## What is included in this GitHub bundle
 
 - accession-aware GEO import and metadata curation
 - per-study preprocessing, gene mapping, and differential expression
@@ -83,7 +84,7 @@ Figure 1 is a **manual schematic** (study selection, cohort characteristics, wor
 Generate with:
 
 ```r
-source("R/13_make_figures_2_to_6_refined.R")
+source("R/13_make_figures_2_to_6.R")
 ```
 
 The script writes:
@@ -141,5 +142,3 @@ Key outputs:
 Note: manuscript files are intentionally excluded from this GitHub-ready bundle.
 
 
-## Figure style
-Generated figures intentionally avoid embedded figure titles and figure numbers. Only multi-panel figures carry panel tags (A, B, C, ...); full figure captions should be added in the manuscript.
