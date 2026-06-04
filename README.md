@@ -1,3 +1,6 @@
+[![DOI](https://zenodo.org/badge/1259679476.svg)](https://doi.org/10.5281/zenodo.20547702)
+
+
 # T2D-islet-integrative
 
 Cross-platform integrative transcriptomics pipeline for the paper "Transcriptomic Architecture of Type 2 Diabetes in Human Pancreatic Islets:
