@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: "Romero"
+    given-names: "Ricardo"
+    orcid: "https://orcid/0000-0002-4589-2984" # Optional
+title: "T2D-islet-integrative"
+version: "1.0.0"
+doi: "10.5281/zenodo.20547703" # Replace with your Zenodo DOI once generated
+date-released: 2026-06-04
+url: "https://github.com/ricardo-romero-ochoa/T2D-islet-integrative"
+
