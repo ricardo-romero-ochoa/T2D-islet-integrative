@@ -139,6 +139,6 @@ Key outputs:
 - `results/figures/Figure6_module_effect_size_forests.png`
 
 
-Note: manuscript files are intentionally excluded from this GitHub-ready bundle.
+
 
 
