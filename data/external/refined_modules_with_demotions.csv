@@ -1,0 +1,81 @@
+module,module_refined,gene,status,rationale
+IdentitySecretion,BetaCellIdentitySecretion,ABHD10,demoted,retained in discovery module but deprioritized for final manuscript core due to lower interpretability/specificity
+IdentitySecretion,BetaCellIdentitySecretion,ANO5,demoted,retained in discovery module but deprioritized for final manuscript core due to lower interpretability/specificity
+IdentitySecretion,BetaCellIdentitySecretion,CAPN13,demoted,retained in discovery module but deprioritized for final manuscript core due to lower interpretability/specificity
+IdentitySecretion,BetaCellIdentitySecretion,CTNNA2,demoted,retained in discovery module but deprioritized for final manuscript core due to lower interpretability/specificity
+IdentitySecretion,BetaCellIdentitySecretion,DACH2,demoted,retained in discovery module but deprioritized for final manuscript core due to lower interpretability/specificity
+IdentitySecretion,BetaCellIdentitySecretion,EDARADD,demoted,retained in discovery module but deprioritized for final manuscript core due to lower interpretability/specificity
+IdentitySecretion,BetaCellIdentitySecretion,FAM47E-STBD1,demoted,retained in discovery module but deprioritized for final manuscript core due to lower interpretability/specificity
+IdentitySecretion,BetaCellIdentitySecretion,GRAMD3,demoted,retained in discovery module but deprioritized for final manuscript core due to lower interpretability/specificity
+IdentitySecretion,BetaCellIdentitySecretion,INPP5F,demoted,retained in discovery module but deprioritized for final manuscript core due to lower interpretability/specificity
+IdentitySecretion,BetaCellIdentitySecretion,MED27,demoted,retained in discovery module but deprioritized for final manuscript core due to lower interpretability/specificity
+IdentitySecretion,BetaCellIdentitySecretion,MOB4,demoted,retained in discovery module but deprioritized for final manuscript core due to lower interpretability/specificity
+IdentitySecretion,BetaCellIdentitySecretion,MPP1,demoted,retained in discovery module but deprioritized for final manuscript core due to lower interpretability/specificity
+IdentitySecretion,BetaCellIdentitySecretion,MTPAP,demoted,retained in discovery module but deprioritized for final manuscript core due to lower interpretability/specificity
+IdentitySecretion,BetaCellIdentitySecretion,MTUS2,demoted,retained in discovery module but deprioritized for final manuscript core due to lower interpretability/specificity
+IdentitySecretion,BetaCellIdentitySecretion,NECTIN3,demoted,retained in discovery module but deprioritized for final manuscript core due to lower interpretability/specificity
+IdentitySecretion,BetaCellIdentitySecretion,NPTX2,demoted,retained in discovery module but deprioritized for final manuscript core due to lower interpretability/specificity
+IdentitySecretion,BetaCellIdentitySecretion,NSG1,demoted,retained in discovery module but deprioritized for final manuscript core due to lower interpretability/specificity
+IdentitySecretion,BetaCellIdentitySecretion,PDZK1,demoted,retained in discovery module but deprioritized for final manuscript core due to lower interpretability/specificity
+IdentitySecretion,BetaCellIdentitySecretion,PLA1A,demoted,retained in discovery module but deprioritized for final manuscript core due to lower interpretability/specificity
+IdentitySecretion,BetaCellIdentitySecretion,PPM1E,demoted,retained in discovery module but deprioritized for final manuscript core due to lower interpretability/specificity
+IdentitySecretion,BetaCellIdentitySecretion,ROBO2,demoted,retained in discovery module but deprioritized for final manuscript core due to lower interpretability/specificity
+IdentitySecretion,BetaCellIdentitySecretion,SH3GL2,demoted,retained in discovery module but deprioritized for final manuscript core due to lower interpretability/specificity
+IdentitySecretion,BetaCellIdentitySecretion,SLC16A9,demoted,retained in discovery module but deprioritized for final manuscript core due to lower interpretability/specificity
+IdentitySecretion,BetaCellIdentitySecretion,TAGLN3,demoted,retained in discovery module but deprioritized for final manuscript core due to lower interpretability/specificity
+IdentitySecretion,BetaCellIdentitySecretion,TMCC3,demoted,retained in discovery module but deprioritized for final manuscript core due to lower interpretability/specificity
+IdentitySecretion,BetaCellIdentitySecretion,TTC7B,demoted,retained in discovery module but deprioritized for final manuscript core due to lower interpretability/specificity
+IdentitySecretion,BetaCellIdentitySecretion,ACLY,core,metabolic flux / functional state
+IdentitySecretion,BetaCellIdentitySecretion,ADCYAP1,core,neuroendocrine secretory signaling
+IdentitySecretion,BetaCellIdentitySecretion,ASB9,core,reproducible down hit with endocrine-state relevance
+IdentitySecretion,BetaCellIdentitySecretion,CASR,core,calcium-sensing / stimulus-secretion coupling
+IdentitySecretion,BetaCellIdentitySecretion,ENTPD3,core,islet/beta-cell ectonucleotidase
+IdentitySecretion,BetaCellIdentitySecretion,FFAR4,core,metabolic sensing / secretory coupling
+IdentitySecretion,BetaCellIdentitySecretion,PDE8B,core,cAMP regulation / endocrine signaling
+IdentitySecretion,BetaCellIdentitySecretion,PFKFB2,core,metabolic control linked to secretion
+IdentitySecretion,BetaCellIdentitySecretion,PLCXD3,core,phosphoinositide signaling / beta-cell function
+IdentitySecretion,BetaCellIdentitySecretion,PPM1K,core,mitochondrial/metabolic competence
+IdentitySecretion,BetaCellIdentitySecretion,PPP1R1A,core,beta-cell functional identity marker
+IdentitySecretion,BetaCellIdentitySecretion,RASGRP1,core,high-confidence core hit; signaling competence
+IdentitySecretion,BetaCellIdentitySecretion,TGFBR3,core,cell-state regulation with strong reproducibility
+IdentitySecretion,BetaCellIdentitySecretion,TMED6,core,islet secretory pathway component
+StressInflammation,ImmuneStress,ADAM28,demoted,retained in discovery module but deprioritized for final manuscript core due to lower interpretability/specificity
+StressInflammation,ImmuneStress,ADAMTS9,demoted,retained in discovery module but deprioritized for final manuscript core due to lower interpretability/specificity
+StressInflammation,ImmuneStress,APOD,demoted,retained in discovery module but deprioritized for final manuscript core due to lower interpretability/specificity
+StressInflammation,ImmuneStress,CACTIN,demoted,retained in discovery module but deprioritized for final manuscript core due to lower interpretability/specificity
+StressInflammation,ImmuneStress,CLDN18,demoted,retained in discovery module but deprioritized for final manuscript core due to lower interpretability/specificity
+StressInflammation,ImmuneStress,CORO7,demoted,retained in discovery module but deprioritized for final manuscript core due to lower interpretability/specificity
+StressInflammation,ImmuneStress,CRISP3,demoted,retained in discovery module but deprioritized for final manuscript core due to lower interpretability/specificity
+StressInflammation,ImmuneStress,CXCL12,demoted,retained in discovery module but deprioritized for final manuscript core due to lower interpretability/specificity
+StressInflammation,ImmuneStress,CYP2D6,demoted,retained in discovery module but deprioritized for final manuscript core due to lower interpretability/specificity
+StressInflammation,ImmuneStress,DOCK5,demoted,retained in discovery module but deprioritized for final manuscript core due to lower interpretability/specificity
+StressInflammation,ImmuneStress,LYVE1,demoted,retained in discovery module but deprioritized for final manuscript core due to lower interpretability/specificity
+StressInflammation,ImmuneStress,MATN1,demoted,retained in discovery module but deprioritized for final manuscript core due to lower interpretability/specificity
+StressInflammation,ImmuneStress,MROH7,demoted,retained in discovery module but deprioritized for final manuscript core due to lower interpretability/specificity
+StressInflammation,ImmuneStress,NPEPL1,demoted,retained in discovery module but deprioritized for final manuscript core due to lower interpretability/specificity
+StressInflammation,ImmuneStress,PDE7B,demoted,retained in discovery module but deprioritized for final manuscript core due to lower interpretability/specificity
+StressInflammation,ImmuneStress,PRR36,demoted,retained in discovery module but deprioritized for final manuscript core due to lower interpretability/specificity
+StressInflammation,ImmuneStress,RASD2,demoted,retained in discovery module but deprioritized for final manuscript core due to lower interpretability/specificity
+StressInflammation,ImmuneStress,RELN,demoted,retained in discovery module but deprioritized for final manuscript core due to lower interpretability/specificity
+StressInflammation,ImmuneStress,SIPA1,demoted,retained in discovery module but deprioritized for final manuscript core due to lower interpretability/specificity
+StressInflammation,ImmuneStress,SLC6A20,demoted,retained in discovery module but deprioritized for final manuscript core due to lower interpretability/specificity
+StressInflammation,ImmuneStress,SLIT2,demoted,retained in discovery module but deprioritized for final manuscript core due to lower interpretability/specificity
+StressInflammation,ImmuneStress,SMOC2,demoted,retained in discovery module but deprioritized for final manuscript core due to lower interpretability/specificity
+StressInflammation,ImmuneStress,TGFB3,demoted,retained in discovery module but deprioritized for final manuscript core due to lower interpretability/specificity
+StressInflammation,ImmuneStress,THBS2,demoted,retained in discovery module but deprioritized for final manuscript core due to lower interpretability/specificity
+StressInflammation,ImmuneStress,TMPRSS3,demoted,retained in discovery module but deprioritized for final manuscript core due to lower interpretability/specificity
+StressInflammation,ImmuneStress,TMPRSS4,demoted,retained in discovery module but deprioritized for final manuscript core due to lower interpretability/specificity
+StressInflammation,ImmuneStress,ADORA3,core,stress-inflammatory receptor signaling
+StressInflammation,ImmuneStress,APOL1,core,immune-stress associated effector
+StressInflammation,ImmuneStress,CFH,core,complement regulation / inflammatory context
+StressInflammation,ImmuneStress,FPR3,core,immune chemotactic signaling
+StressInflammation,ImmuneStress,GBP2,core,interferon-responsive immune effector
+StressInflammation,ImmuneStress,HLA-DPA1,core,antigen presentation/inflammatory activation
+StressInflammation,ImmuneStress,HLA-DRA,core,antigen presentation/inflammatory activation
+StressInflammation,ImmuneStress,IDO1,core,interferon/inflammatory stress response
+StressInflammation,ImmuneStress,IL1R2,core,IL-1 pathway / inflammatory response
+StressInflammation,ImmuneStress,IL1RL1,core,innate inflammatory signaling
+StressInflammation,ImmuneStress,LTB4R,core,leukotriene/inflammatory signaling
+StressInflammation,ImmuneStress,MICB,core,stress-induced immune ligand; strong meta signal
+StressInflammation,ImmuneStress,SERPING1,core,complement/inflammatory regulator
+StressInflammation,ImmuneStress,TNFRSF10A,core,stress/apoptotic signaling

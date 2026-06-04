@@ -1,0 +1,29 @@
+module,gene,status,rationale
+ImmuneStress,MICB,core,stress-induced immune ligand; strong meta signal
+ImmuneStress,HLA-DRA,core,antigen presentation/inflammatory activation
+ImmuneStress,HLA-DPA1,core,antigen presentation/inflammatory activation
+ImmuneStress,IL1R2,core,IL-1 pathway / inflammatory response
+ImmuneStress,IL1RL1,core,innate inflammatory signaling
+ImmuneStress,IDO1,core,interferon/inflammatory stress response
+ImmuneStress,SERPING1,core,complement/inflammatory regulator
+ImmuneStress,FPR3,core,immune chemotactic signaling
+ImmuneStress,LTB4R,core,leukotriene/inflammatory signaling
+ImmuneStress,GBP2,core,interferon-responsive immune effector
+ImmuneStress,TNFRSF10A,core,stress/apoptotic signaling
+ImmuneStress,CFH,core,complement regulation / inflammatory context
+ImmuneStress,ADORA3,core,stress-inflammatory receptor signaling
+ImmuneStress,APOL1,core,immune-stress associated effector
+BetaCellIdentitySecretion,RASGRP1,core,high-confidence core hit; signaling competence
+BetaCellIdentitySecretion,PPP1R1A,core,beta-cell functional identity marker
+BetaCellIdentitySecretion,ENTPD3,core,islet/beta-cell ectonucleotidase
+BetaCellIdentitySecretion,ADCYAP1,core,neuroendocrine secretory signaling
+BetaCellIdentitySecretion,FFAR4,core,metabolic sensing / secretory coupling
+BetaCellIdentitySecretion,TMED6,core,islet secretory pathway component
+BetaCellIdentitySecretion,PLCXD3,core,phosphoinositide signaling / beta-cell function
+BetaCellIdentitySecretion,PDE8B,core,cAMP regulation / endocrine signaling
+BetaCellIdentitySecretion,CASR,core,calcium-sensing / stimulus-secretion coupling
+BetaCellIdentitySecretion,PFKFB2,core,metabolic control linked to secretion
+BetaCellIdentitySecretion,ACLY,core,metabolic flux / functional state
+BetaCellIdentitySecretion,TGFBR3,core,cell-state regulation with strong reproducibility
+BetaCellIdentitySecretion,ASB9,core,reproducible down hit with endocrine-state relevance
+BetaCellIdentitySecretion,PPM1K,core,mitochondrial/metabolic competence
