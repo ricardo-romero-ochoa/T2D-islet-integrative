@@ -1,12 +1,21 @@
 cff-version: 1.2.0
-message: "If you use this software, please cite it as below."
+message: "If you use this software, please cite the archived version of this repository."
+type: software
 authors:
   - family-names: "Romero"
     given-names: "Ricardo"
-    orcid: "https://orcid/0000-0002-4589-2984" # Optional
+    orcid: "https://orcid.org/0000-0002-4589-2984"
 title: "T2D-islet-integrative"
-version: "1.0.0"
-doi: "10.5281/zenodo.20547703" # Replace with your Zenodo DOI once generated
-date-released: 2026-06-04
+version: 2.0.1
+date-released: 2026-11-13
+doi: "10.5281/zenodo.20547702"
+repository-code: "https://github.com/ricardo-romero-ochoa/T2D-islet-integrative"
 url: "https://github.com/ricardo-romero-ochoa/T2D-islet-integrative"
-
+license: GPL-3.0-only
+abstract: "Reproducible multi-cohort human pancreatic islet transcriptomics analysis for type 2 diabetes, including cross-fitted module validation, matched-gene-set permutation tests, and associated supplementary results."
+keywords:
+  - type 2 diabetes
+  - pancreatic islets
+  - transcriptomics
+  - cross-cohort validation
+  - computational biology
